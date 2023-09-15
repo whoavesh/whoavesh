@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="banner image">
+<img src="./banner.png" alt="banner image">
 # 💫 About Me:
 I am currently accquiring DevOps Knowledge<br>Enhancing my cloud and linux skill
 
