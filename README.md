@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="banner image">
-# 💫 About Me:
-I am currently accquiring DevOps Knowledge<br>Enhancing my cloud and linux skill
+# <h1> Hi, I am Avesh</h1>
+<h2>I am currently accquiring DevOps Knowledge<br>Enhancing my cloud and linux skill</h2>
 
 
 ## 🌐 Socials:
