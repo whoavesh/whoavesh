@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="banner image">  
+
 <h1 style="text-align:center"> Hi, I am Avesh</h1>
 <h2>I am currently accquiring DevOps Knowledge and enhancing my cloud and linux skill</h2>
 </center>
